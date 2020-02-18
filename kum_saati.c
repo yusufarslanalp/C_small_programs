@@ -5,6 +5,7 @@ main(void)
 
 {
 	int i, maxspace, space, j,k,l,m,f,x;
+	printf("enter width of sandglass as integer: ");
 	scanf("%d",&i);
 	x=i;
 	maxspace = (i-1)/2;
